@@ -18,6 +18,7 @@ sudo apt update && sudo apt upgrade -y
 - install [`p10k`](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#oh-my-zsh) for omz
 - install [`zsh-syntax-highlighting`](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh)
   for omz
+- install [`zsh-autosuggestions`](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh) for omz
 - `cp ./zsh/.p10k.zsh ./zsh/.zshrc .`
 - reload terminal/ssh
 
