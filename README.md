@@ -14,6 +14,8 @@ sudo apt update && sudo apt upgrade -y
 
 ### Shell Customization
 
+`setup_zsh.sh` executes the content below.
+
 - install [`oh-my-zsh`](https://github.com/ohmyzsh/ohmyzsh?tab=readme-ov-file#basic-installation)
 - install [`p10k`](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#oh-my-zsh) for omz
 - install [`zsh-syntax-highlighting`](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md#oh-my-zsh)
